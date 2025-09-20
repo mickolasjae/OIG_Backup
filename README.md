@@ -1,6 +1,6 @@
 # Okta IGA Backup (SSWS) — README
 
-A tiny Node.js utility that snapshots **Okta Identity Governance (IGA)** configuration and per-resource data using an **API token (SSWS)**. It discovers **applications and/or groups**, then pulls IGA objects that matter for governance reviews (campaigns, reviews, entitlement bundles, labels, collections, risk rules, delegates) and—per resource **entitlements, entitlement values, grants, and resource owners**.
+A tiny Node.js utility that snapshots **Okta Identity Governance (IGA)** configuration and per-resource data using an **API token (SSWS)**. It discovers **applications and/or groups**, then pulls IGA objects that matter for governance reviews (campaigns, reviews, entitlement bundles, labels, collections, risk rules, delegates) and per resource **entitlements, entitlement values, grants, and resource owners**.
 
 ---
 
